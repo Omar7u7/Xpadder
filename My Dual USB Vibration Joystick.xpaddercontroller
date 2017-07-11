@@ -1,0 +1,68 @@
+;------------------------
+; Xpadder Controller File
+;------------------------
+
+Version=5.5
+
+[Button Locations]
+Button1Location=441,64
+Button2Location=476,98
+Button3Location=450,111
+Button4Location=420,99
+Button5Location=48,9
+Button6Location=451,10
+Button7Location=23,44
+Button8Location=422,35
+Button9Location=230,107
+Button10Location=148,195
+Button11Location=322,199
+Button12Location=320,119
+DPadUpLocation=134,91
+DPadRightLocation=166,123
+DPadDownLocation=134,155
+DPadLeftLocation=102,123
+Stick1UpLocation=36,158
+Stick1RightLocation=68,190
+Stick1DownLocation=36,222
+Stick1LeftLocation=4,190
+Stick2UpLocation=446,158
+Stick2RightLocation=478,190
+Stick2DownLocation=446,222
+Stick2LeftLocation=414,190
+
+[Access]
+DPadUpAccess=POV
+DPadRightAccess=POV
+DPadDownAccess=POV
+DPadLeftAccess=POV
+Stick1XAccess=Axis X
+Stick1YAccess=Axis Y
+Stick2XAccess=Axis RZ
+Stick2YAccess=Axis Z
+
+[Names]
+Button1Name=Botón 1
+Button2Name=Botón 2
+Button3Name=Botón 3
+Button4Name=Botón 4
+Button5Name=Botón 5
+Button6Name=Botón 6
+Button7Name=Botón 7
+Button8Name=Botón 8
+Button9Name=Botón 9
+Button10Name=Botón 10
+Button11Name=Botón 11
+Button12Name=Botón 12
+DPadName=Cruceta
+DPadUpName=Arriba
+DPadRightName=Derecha
+DPadDownName=Abajo
+DPadLeftName=Izquierda
+Stick1Name=Stick 1
+Stick2Name=Stick 2
+StickUpName=Arriba
+StickRightName=Derecha
+StickDownName=Abajo
+StickLeftName=Izquierda
+
+[Image]
